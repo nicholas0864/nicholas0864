@@ -1,16 +1,15 @@
-## Hi there 👋
+# 🚀 Hey there! I'm Nicholas Onigkeit 
 
-<!--
-**nicholas0864/nicholas0864** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🏫 High School Student | 🖥️ Aspiring Developer | 🚀 Tech Enthusiast  
 
-Here are some ideas to get you started:
+Welcome to my GitHub! I'm a high school student passionate about **coding, tech, and building awesome things.** When I’m not coding, you’ll probably find me playing video games, working out, or experimenting with new projects! 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+##  About Me  
+- 🏫 Currently in **high school**, learning and growing every day!  
+- 💡 Interested in **Python, JavaScript, Data Science, Web Development, and AI.**  
+- 🎯 Goal: **Build cool projects.**  
+- 🌎 Fun fact: I love **Tennis**!  
+
+---
